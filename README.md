@@ -1,0 +1,2 @@
+# NttData-Training
+Learning purpose
